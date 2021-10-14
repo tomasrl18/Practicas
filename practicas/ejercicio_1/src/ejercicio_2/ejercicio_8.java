@@ -11,5 +11,6 @@ public class ejercicio_8
 		int numero3 = teclado.nextInt();
 		System.out.println("Sus números son: " + numero1 + ", " + numero2 + " y " + numero3);
 		System.out.println("Gracias por su colaboración.");
+		
 	}
 }
